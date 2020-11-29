@@ -1,4 +1,8 @@
 # css-grid-flexbox
 Exempelo de utilização de layout usando css grid e flexbox.
 
-9:38 min
+## Demo
+[link](https://pc4ucode.github.io/css-grid-flexbox/)
+
+## Credits
+https://bit.ly/3lo5UZs
